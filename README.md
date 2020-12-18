@@ -1,6 +1,3 @@
-# Embd-iverilog
-UCS614: EMBEDDED SYSTEMS DESIGN
-Lab Experiments List
 Experiment 1 (Truth Table and Logic Gates )
 To study and verify the truth table of various logic gates (NOT, AND,
 OR, NAND, NOR, EX-OR, & EX-NOR).
@@ -25,4 +22,4 @@ To design and implement a 4:2 encoder.
 Experiment 10 (Flip-Flops )
 To design and verify the operation of D flip-flops using logic gates.
 Experiment 11 (Counter)
-To verify the operation of asynchronous counter. 
+To verify the operation of asynchronous counter.
